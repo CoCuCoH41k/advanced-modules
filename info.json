@@ -1,0 +1,10 @@
+{
+    "title": "Advanced Modules",
+    "name": "advanced-modules",
+    "description": "Rework modules sprites (for some reasons) and adds 2 new tiers with new technologies",
+    "author": "CoCuCoH41k",
+    "contact": "Discord: cocucoh41k",
+    "version": "0.0.1",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0", "? quality", "? space-age"]
+}
